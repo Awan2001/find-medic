@@ -215,7 +215,7 @@
         android:clickable="true"
         android:onClick="openUrl"
         android:padding="16dp"
-        android:text="http://tinyurl.com/36verhhb"
+        android:text="https://github.com/Awan2001/find-medic"
         android:textColor="#001171"
         android:textSize="16sp"
         android:textStyle="bold"
