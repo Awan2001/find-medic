@@ -16,8 +16,6 @@ This Android Studio project, developed for the subject ICT602, is called Find Me
 
 - **Google Maps API**: Integration with the Google Maps API provides mapping and location services within the app.
 
-- **Firebase**: Firebase is used for server-side operations, including user authentication and storing user comments and feedback.
-
 ## Server-Side
 
 The server-side of the Find Medic app is hosted on 000webhost.
@@ -30,7 +28,7 @@ To use the Find Medic app, follow these steps:
 2. Open the project in Android Studio.
 3. Connect your Android device or emulator.
 4. Build and run the app.
-5. Sign in using Google Sign-In.
+5. Sign in using Google Sign-In(Note that you are required to had SHA key authorize to google sign in function).
 6. Allow location access to find nearby medical centers.
 7. Explore medical centers and post comments.
 
