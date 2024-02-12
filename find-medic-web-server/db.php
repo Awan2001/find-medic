@@ -3,8 +3,8 @@
 
 $link = mysqli_connect(
     "localhost",
-    'id21835479_tanuki2001',
-    'Kwonyul!2013',
-    'id21835479_publicapiarep');
+    'ur_username',
+    'ur_pass',
+    'ur_dbname');
 
  ?>
