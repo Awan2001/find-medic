@@ -34,7 +34,7 @@ To use the Find Medic app, follow these steps:
 
 ## Contributors
 
-- MUHAMMAD ARIF MOHD SABRI - Developer(Integration)
+- MUHAMMAD ARIF MOHD SABRI - Developer(Integration and APIs Implementation)
 - MUHAMMAD IZZAT FADZLAN MOHD ROSLI - Developer(Maps Services and Location)
 - MYA RUMAISA ROSLI - Developer(App Design and Navigation)
 - NURUL AFIQAH AZRI MAZLAN - Developer(Google Sign-in services)
